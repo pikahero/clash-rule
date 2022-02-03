@@ -2,3 +2,4 @@ DOMAIN-SUFFIX,emby.wtf
 DOMAIN-SUFFIX,plusmedia.site
 DOMAIN-SUFFIX,mickeycloud.com
 DOMAIN-SUFFIX,jmsooo.com
+IP-CIDR,20.189.99.0/24
